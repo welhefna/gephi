@@ -17,6 +17,7 @@ what are supported data files and the general structure to follow:
 * Spreadsheet
 
 The following table help to choose which format you want to encode your graph _.
+
 ..image:: https://gephi.org/images/graph-format-table-comparison.png
 
 Usage
@@ -37,13 +38,5 @@ Usage
 	d;b
 	d;c
 
-
-This simple project is an example repo for Python projects.
-
-`Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
-
----------------
-
-If you want to learn more about ``setup.py`` files, check out `this repository <https://github.com/kennethreitz/setup.py>`_.
 
 ✨🍰✨
